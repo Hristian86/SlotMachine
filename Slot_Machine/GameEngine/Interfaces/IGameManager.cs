@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Slot_Machine.GameEngine.Interfaces
 {
-    internal interface IMainLogic
+    internal interface IGameManager
     {
         void Run();
     }

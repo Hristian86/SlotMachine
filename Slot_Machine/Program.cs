@@ -1,5 +1,8 @@
 ﻿using System;
 using Slot_Machine.GameEngine;
+using Slot_Machine.GameEngine.Interfaces;
+using Slot_Machine.GameEngine.Services;
+using Slot_Machine.GameEngine.Services.Interfaces;
 using Slot_Machine.Reader;
 using Slot_Machine.Reader.Readable;
 using Slot_Machine.Write;
@@ -7,37 +10,49 @@ using Slot_Machine.Writer.Writable;
 
 namespace Slot_Machine
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Start();
-        }
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Start();
+		}
 
-        private static void Start()
-        {
-            // TODO (HK) Build dependancy container IoC and move to another location.
-            var consoleReader = new ConsoleReader();
-            var reader = new ReadAdapter(consoleReader);
+		// TODO (HK) Move to external manager.
+		private static void Start()
+		{
+			// TODO (HK) Build dependancy container IoC and move to another location.
+			IReader consoleReader = new ConsoleReader();
+			IReadAdapter reader = new ReadAdapter(consoleReader);
 
-            var consoleWrite = new ConsoleWrite();
-            var writer = new WriteAdapter(consoleWrite);
-            
-            try
-            {
-                // Dispaly message.
-                writer.Write("Please deposit money you would like to play with:");
+			IWriter consoleWrite = new ConsoleWrite();
+			IWriteAdapter writer = new WriteAdapter(consoleWrite);
 
-                decimal depositAmount = reader.Read<decimal>();
+			IRandomService randomService = new RandomService(maxPercentage: 100);
+			ISlotSymbolsService slotService = new SlotSymbolsService();
+			ISpinMachineServiceService spinMachineService = new SpinMachineService(rows: 4, cols: 3, randomService, slotService);
 
-                var game = new MainLogic(reader, writer, depositAmount, 4, 3, 4);
-                game.Run();
+			try
+			{
+				// Dispaly message.
+				writer.Write("Please deposit money you would like to play with:");
 
-            }
-            catch (Exception ex)
-            {
-                writer.Write(ex.Message);
-            }
-        }
-    }
+				decimal depositAmount = reader.Read<decimal>();
+
+				IGameManager game = new GameManager(
+					reader,
+					writer,
+					depositAmount,
+					slotService,
+					randomService,
+					spinMachineService);
+
+				game.Run();
+
+			}
+			catch (Exception ex)
+			{
+				writer.Write(ex.Message);
+			}
+		}
+	}
 }

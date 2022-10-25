@@ -30,3 +30,35 @@ G:\FilesForGithub\Slot_Machine\Slot_Machine\Slot_Machine\obj\Debug\netcoreapp3.1
 G:\FilesForGithub\Slot_Machine\Slot_Machine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.dll
 G:\FilesForGithub\Slot_Machine\Slot_Machine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.pdb
 G:\FilesForGithub\Slot_Machine\Slot_Machine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.genruntimeconfig.cache
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.csproj.AssemblyReference.cache
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.AssemblyInfoInputs.cache
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.AssemblyInfo.cs
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.pdb
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\Slot_Machine.exe
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\Slot_Machine.deps.json
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\Slot_Machine.runtimeconfig.json
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\Slot_Machine.runtimeconfig.dev.json
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\Slot_Machine.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\Slot_Machine.pdb
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\ApprovalUtilities.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.csproj.CopyComplete
+C:\Users\Hristian Kanev\Desktop\myBackEndApi\SlotMachine\SlotMachine\Slot_Machine\obj\Debug\netcoreapp3.1\Slot_Machine.genruntimeconfig.cache

@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Slot_Machine.GameEngine
+﻿namespace Slot_Machine.GameEngine.Models
 {
-    internal class GameSymbols
+	internal class GameSymbols
     {
         public GameSymbols(
             string name,
